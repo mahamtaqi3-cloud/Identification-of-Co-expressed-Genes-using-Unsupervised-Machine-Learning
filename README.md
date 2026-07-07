@@ -1,4 +1,4 @@
-# 🧬 Identification of Co-expressed Genes using Unsupervised Machine Learning*
+# 🧬 Identification of Co-expressed Genes using Unsupervised Machine Learning
 
 ### *Unlocking Yeast Metabolic Insights through Machine Learning*
 
